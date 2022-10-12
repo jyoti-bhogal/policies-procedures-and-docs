@@ -1,4 +1,4 @@
-# Speed Blog: Project name, team members
+# Speed Blog: Building Pathways for Onboarding to Research Software Engineering (RSE) Asia Association and Adoption of Code of Conduct, Jyoti Bhogal
 
 -----
 

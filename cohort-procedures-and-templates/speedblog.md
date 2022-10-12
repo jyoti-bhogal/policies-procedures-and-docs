@@ -1,4 +1,4 @@
-# Speed Blog: Project name, team members
+# Speed Blog: Project name, Jyoti Bhogal
 
 -----
 
